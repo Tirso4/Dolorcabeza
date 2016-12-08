@@ -49,7 +49,7 @@ El programa cuenta con diez distintos tipos de dolor de cabeza, los cuales se me
 •	Problemas hormonales.
 
 _ _ _
-**Justificación **
+**Justificación**
 
 En el desarrollo de este proyecto se lementaraun sistema experto que ayude a las personas a diagnosticar el tipo de dolor de cabeza que padecen, los dolores de cabeza son muy comunes pero cada uno se trata de distinta forma. De manera de que si el usuario no tiene la posibilidad de en el momento acudir al médico, pueda hacer uso del programa y entender qué tipo de dolor de cabeza presenta y como tratarlo. 
 
@@ -102,7 +102,6 @@ conocimiento('Problema hormonal',
 
 
 ```
-![](https://github.com/enith/Dolorcabeza/blob/master/resultado1.jpg)
 
 **Reglas**
 
@@ -129,6 +128,7 @@ mostrar_diagnostico(X):-conocimiento(X,'dejo de tomar algun medicamento como: Ty
 mostrar_diagnostico(X):-conocimiento(X,'se acerca menstruacion').
 
 ```
+![](https://github.com/enith/Dolorcabeza/blob/master/resultado1.jpg)
 
 estas reglas que se mostraron anteriormente ya no fueron necesarias al realizar el programa con ayuda de una interfaz donde el en motor de inferencia(consultor), que nos preguntara si la persona muestra los síntomas y encontrara la respuesta.
 
@@ -354,6 +354,10 @@ tratamiento(X):- send(@lblExp1,selection('De Acuerdo Al Diagnostico El Tratamien
 
 
 ```
+![](https://github.com/enith/Dolorcabeza/blob/master/resultado2.jpg)
+![](https://github.com/enith/Dolorcabeza/blob/master/resultado3.jpg)
+![](https://github.com/enith/Dolorcabeza/blob/master/resultado4.jpg)
+![](https://github.com/enith/Dolorcabeza/blob/master/resultado5.jpg)
 
 _ _ _
 
@@ -361,9 +365,11 @@ _ _ _
 
 **Conclusión **
  Prolog a diferentecia de otros lenguajes de progrmacion, nos permite describir estructuras de datos,  sus relaciones y objetivos por ser un lenguaje declarativo. Consta decir entonces que el Lenguaje Prolog tiene una estructura de programación orientada a dar soluciones a  problemas del  área de aplicación de la Inteligencia Artificial mediante estructuras de programación orientadas a la  resolución de problemas.
-
+_ _ _
 
 **Referencias**
+
+
 •http://es.wikipedia.org/wiki/Sistema_experto#Estructura_b.C3.A1sica_de_un_SE
 •http://www.ecured.cu/index.php/Sistemas_expertos#Componentes_de_un_sistema_experto
 
