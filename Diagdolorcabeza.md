@@ -102,7 +102,7 @@ conocimiento('Problema hormonal',
 
 
 ```
-
+![](https://github.com/enith/Dolorcabeza/blob/master/resultado1.jpg)
 
 **Reglas**
 
