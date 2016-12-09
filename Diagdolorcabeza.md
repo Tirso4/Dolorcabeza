@@ -51,7 +51,7 @@ El programa cuenta con diez distintos tipos de dolor de cabeza, los cuales se me
 _ _ _
 **Justificación**
 
-En el desarrollo de este proyecto se lementaraun sistema experto que ayude a las personas a diagnosticar el tipo de dolor de cabeza que padecen, los dolores de cabeza son muy comunes pero cada uno se trata de distinta forma. De manera de que si el usuario no tiene la posibilidad de en el momento acudir al médico, pueda hacer uso del programa y entender qué tipo de dolor de cabeza presenta y como tratarlo. 
+En el desarrollo de este proyecto se implementara un sistema experto que ayude a las personas a diagnosticar el tipo de dolor de cabeza que padecen, los dolores de cabeza son muy comunes pero cada uno se trata de distinta forma. De manera de que si el usuario no tiene la posibilidad de en el momento acudir al médico, pueda hacer uso del programa y entender qué tipo de dolor de cabeza presenta y como tratarlo. 
 
 ######Sin olvidar que la información que brinda este diagnóstico  es solo para tener un primer análisis de la posible causa de nuestro dolor de cabeza. Es de suma importancia acudir a su médico.  
 
