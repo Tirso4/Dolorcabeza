@@ -371,12 +371,16 @@ _ _ _
 
 
 •http://es.wikipedia.org/wiki/Sistema_experto#Estructura_b.C3.A1sica_de_un_SE
+
 •http://www.ecured.cu/index.php/Sistemas_expertos#Componentes_de_un_sistema_experto
 
 •http://sistemasexpertosproactivas.blogspot.com/p/ventajas-y-desventajas-de-los-se.html
 
 •http://www.itnuevolaredo.edu.mx/takeyas/Apuntes/Inteligencia%20Artificial/Apuntes/Filminas_Sistemas_Expertos/SistemasExpertos5.PDF
 
+•https://mejorconsalud.com/8-tipos-de-dolores-de-cabeza-y-como-combatirlos/
 
 •http://arantxa.ii.uam.es/~dcamacho/logica/recursos/3848.0.prolog.pdf
+
+
 
